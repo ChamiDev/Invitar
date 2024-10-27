@@ -1,3 +1,1 @@
-{
-    "version": "v10.5"
-}
+export const version = "v10.5";
